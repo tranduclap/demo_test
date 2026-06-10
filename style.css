@@ -1,0 +1,70 @@
+
+    body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f4f6f9;
+    margin: 0;
+    padding: 24px;
+    box-sizing: border-box;
+    }
+    
+    .container-box{
+        margin: 20px;
+    }
+    .container-header{
+        background-color: #06cbe5fe;
+        padding: 20px;
+        border-radius: 20px;
+        
+    }
+    .add-products-form{
+       
+        margin: 20px;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+    }
+   .product-list {
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+    .product-list-header {
+        margin-bottom: 20px;
+    }
+    .product-list-title {
+        font-size: 24px;
+        margin-bottom: 5px;
+    }
+    .product-list-subtitle {
+        font-size: 14px;
+        color: #666;
+    }
+    .table-container {
+        overflow-x: auto;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    th, td {
+        padding: 12px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+    }
+    th {
+        background-color: #f8f8f8;
+    }
+    .badge {
+        padding: 5px 10px;
+        border-radius: 5px;
+        color: white;
+        font-size: 12px;
+    }
+    .badge-success {
+        background-color: #28a745;
+    }
+    .badge-danger {
+        background-color: #dc3545;
+    }
