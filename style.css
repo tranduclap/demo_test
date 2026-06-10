@@ -16,13 +16,20 @@
         border-radius: 20px;
         
     }
-    .add-products-form{
-       
+    .add-products-form {
+        background-color: white;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+    /* .add-products-form{
+        width: 300px;
+        box-sizing:border-box;
         margin: 20px;
         padding: 20px;
         border: 1px solid #ccc;
         border-radius: 10px;
-    }
+    } */
    .product-list {
     margin: 20px;
     padding: 20px;
